@@ -155,7 +155,7 @@ function App() {
                   <article className="article">
                     <div>
                       <img
-                        className="article__picture"
+                        className="article__picture mb24"
                         src={article.imgMain}
                         alt={article.imgMainAlt}
                       ></img>

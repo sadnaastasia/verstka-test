@@ -177,7 +177,7 @@
 @media (max-width: 700px) {
   .articles-wrapper {
     grid-template-columns: 1fr;
-    row-gap: 20px;
+    row-gap: 100px;
   }
 
   .article__picture {
