@@ -186,6 +186,7 @@ a {
   border: solid 2px var(--dark-blue);
   border-radius: 56px;
   padding: 16px 56px;
+  color: var(--dark-blue);
 }
 
 .secondary-btn:hover {
@@ -304,6 +305,7 @@ a {
 .svg-exit {
   width: 30px;
   height: 30px;
+  fill: var(--black);
 }
 
 .side-menu__exit-button:hover {
